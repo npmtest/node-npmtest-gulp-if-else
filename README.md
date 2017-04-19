@@ -1,4 +1,7 @@
-# test coverage for  [gulp-if-else (v1.0.3)](https://github.com/Nicolab/gulp-if-else)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-if-else.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-if-else) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-if-else.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-if-else)
+# npmtest-gulp-if-else
+
+#### test coverage for  [gulp-if-else (v1.0.3)](https://github.com/Nicolab/gulp-if-else)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-if-else.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-if-else) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-if-else.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-if-else)
+
 #### [Gulp plugin] Conditional task with "if" callback and "else" callback (optional): gulp.src(source).pipe( ifElse(condition, ifCallback, elseCallback) )
 
 [![NPM](https://nodei.co/npm/gulp-if-else.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-if-else)
